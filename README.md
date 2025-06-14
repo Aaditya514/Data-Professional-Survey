@@ -24,7 +24,7 @@ The goal of this dashboard is to visualize and analyze:
 ---
 
 ## 📈 Dashboard Highlights
-
+![Dashboard Preview](./Dashboard.png)
 ### 🌍 Country of Survey Takers
 Visualizes the geographic distribution of professionals, with significant responses from India, the US, UK, and Canada.
 
